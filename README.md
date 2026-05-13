@@ -13,9 +13,9 @@ Machine learning project focused on identifying fraudulent financial transaction
 - Logistic Regression
 - SVM
 - KNN
-- Decision Tree
+- Decision Tree (CART)
 
 ## Key Results
-- Achieved F1-score above 0.90
-- Applied PCA and feature selection techniques
 - Evaluated models using cross-validation and hyperparameter tuning
+- Achieved strong classification performance with AUC scores above 0.90 for top-performing models
+- Applied feature selection techniques including PCA, RFE, and SelectKBest
